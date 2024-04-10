@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: 39a6d834cc6d0e646b88dd11eda2e588
+guid: 7aad0d5756ea6ea44a4e4ad4306053d1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch32_1001_Diffuse
-    second: {fileID: 2800000, guid: 9490cb1a0522ee8469e8f2512160bb78, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch32_1001_Glossiness
-    second: {fileID: 2800000, guid: 8d4a3504cd924ec4388b201f99703351, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch32_1001_Normal
-    second: {fileID: 2800000, guid: 8e33cf379237f8641b956786e5712ff1, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Ch32_1001_Specular
-    second: {fileID: 2800000, guid: ad84c32084b38ee41bb5c18930b3edc9, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -51,7 +31,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Standing Dodge Backward
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -97,15 +106,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips:
-  - 2ab1fdc8f2fde674b8f1b67831d01edd
-  - 1abf110a1e97d2442b57821c1966318f
-  - c01f0a59e8072e7469c5234c9044a0e0
-  - d775a85514249744bae5f0b55ba2572b
-  - 2b43663b71444c2478f577560d5e314c
-  - 7aad0d5756ea6ea44a4e4ad4306053d1
-  - befa782b3cd0bb84d9e899527e462e8c
-  - 227cd9469c915184f92e698075e06003
+  referencedClips: []
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
